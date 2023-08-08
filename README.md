@@ -1,4 +1,4 @@
-### [꾸준함의 힘을 아는 개발자 ](https://makingnameisannoying.github.io/MakingNameIsAnnoying/)👋
+<!-- ### [꾸준함의 힘을 아는 개발자 ](https://makingnameisannoying.github.io/MakingNameIsAnnoying/)👋 -->
 
 <!--
 **MakingNameIsAnnoying/MakingNameIsAnnoying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
